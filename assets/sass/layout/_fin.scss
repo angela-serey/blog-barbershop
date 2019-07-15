@@ -1,0 +1,28 @@
+.container__fin{
+    margin-left: 110px;
+
+}
+
+.my-rounded-left {
+    border-top-left-radius: 5rem !important;
+    border-bottom-left-radius: 5rem !important;
+    background: $nickel !important;
+    border: none;
+    color: $eerie-black;
+  }
+  .my-rounded-right {
+    border-top-right-radius: 5rem !important;
+    border-bottom-right-radius: 5rem !important;
+    color: $eerie-black;
+  }
+  .profile__img{
+      padding-bottom: 21px;
+  }
+  .nao{
+      padding-top: 58px;
+  }
+  p{
+      padding-top: 58px;
+  } h3{
+      color: $spanish-pink;
+  }
